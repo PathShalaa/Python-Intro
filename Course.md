@@ -7,7 +7,8 @@
 2. Differences to other programming languages.
 3. Differences to Python 2.x
 4. Python! Get Set Up
-5. 
+5. Editing Python w/ Atom
+6. 
 
 ## Bash to Windows:
 
@@ -17,6 +18,14 @@
 
 3. 
 
+# Task:
+1. interpreter vs compiler
+2. 
+
+
+# Resource:
+1. http://en.wikipedia.org/wiki/List_of_programming_languages
+2. 
 
 ### Some changes in Python 3.0:
 

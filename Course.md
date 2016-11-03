@@ -25,7 +25,12 @@
 
 # Resource:
 1. http://en.wikipedia.org/wiki/List_of_programming_languages
-2. 
+2. http://hukush-pakush.com/
+3. http://python.howtocode.com.bd/
+4. https://learnpythonthehardway.org/book/
+5. http://www.codecademy.com/tracks/python
+6. http://www.imdb.com/title/tt2209764/ [Movie]
+7. https://cloud.github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf [book]
 
 ### Some changes in Python 3.0:
 

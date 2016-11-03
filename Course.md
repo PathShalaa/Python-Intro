@@ -8,3 +8,11 @@
 3. Differences to Python 2.x
 4. Python! Get Set Up
 5. 
+
+## Bash to Windows:
+
+1. Windows command line for Beginners
+2. Command List:
+- Help - dir - cd - mkdir - rmdir - del - ping - ipconfig - systeminfo - Tasklist - Shutdown - ping - netstat - tracert - 
+
+3. 

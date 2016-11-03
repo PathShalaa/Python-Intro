@@ -21,6 +21,8 @@
 # Task:
 1. interpreter vs compiler
 2. Why programming?
+3.What is Object-oriented programming (OOP)?
+4.What is embedded systems?
 
 
 # Resource:

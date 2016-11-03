@@ -20,7 +20,7 @@
 
 # Task:
 1. interpreter vs compiler
-2. 
+2. Why programming?
 
 
 # Resource:
